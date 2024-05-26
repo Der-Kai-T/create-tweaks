@@ -1,14 +1,13 @@
 {
-  "type": "create:crushing",
+  "type": "minecraft:crafting_shapeless",
   "ingredients": [
     {
       "item": "minecraft:quartz_block"
     }
   ],
-  "result": [{
+  "result": {
     "item": "minecraft:quartz",
     "count": 4
 
-  }],
-  "processingTime": 40
+  }
 }
