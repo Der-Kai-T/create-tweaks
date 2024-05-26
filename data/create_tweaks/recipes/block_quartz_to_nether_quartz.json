@@ -5,11 +5,10 @@
       "item": "minecraft:quartz_block"
     }
   ],
-  "processingTime": 40,
   "result": [{
     "item": "minecraft:quartz",
     "count": 4
 
-  }]
-
+  }],
+  "processingTime": 40
 }
